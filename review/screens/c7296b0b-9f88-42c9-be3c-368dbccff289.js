@@ -166,7 +166,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-717acba1-Text_65_0">Mauris augue nisl, cursus marusqui molestie turpis ut tempor lueni</span>\
+        	            <span id="rtr-mi-717acba1-Text_65_0">OBS: En samlingsregering utan opposition som inte av något parti får hindras från att genomföra de viktigaste uppdragen som de får under en två år lång mandatperiod.</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -200,7 +200,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-717acba1-Button_9_0">Physical stores</span>\
+        	            <span id="rtr-mi-717acba1-Button_9_0">Miljömodellen för demokrati, demokrati från teori till praktik, vilar på  ett multireligionvalsystem</span>\
         	          </div>\
         	        </div>\
         	      </div>\
