@@ -49,7 +49,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Text_43_0">Customer Service</span>\
+        	            <span id="rtr-mi-1128219e-Text_43_0">FDU</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -64,7 +64,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Button_10_0">Shipping policy</span>\
+        	            <span id="rtr-mi-1128219e-Button_10_0">PPP policy</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -109,7 +109,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Button_13_0">Shipping</span>\
+        	            <span id="rtr-mi-1128219e-Button_13_0">PPP</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -166,7 +166,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Text_45_0">Mauris augue nisl, cursus marusqui molestie turpis ut tempor lueni</span>\
+        	            <span id="rtr-mi-1128219e-Text_45_0">Vapenindustrin (försvarsindustrin) är en ohållbar och miljöförstörande industri och därför måste den avvecklas på samma sätt som tobaksindustrin !
+Krig utgör ett hot mot miljön och mänskligheten.</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -200,7 +201,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Button_15_0">Physical stores</span>\
+        	            <span id="rtr-mi-1128219e-Button_15_0">Multireligionvalsystem</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -245,7 +246,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Button_18_0">Offers</span>\
+        	            <span id="rtr-mi-1128219e-Button_18_0">Reform</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -264,7 +265,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Text_47_0">Security and privacy</span>\
+        	            <span id="rtr-mi-1128219e-Text_47_0">Multireligionval</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -309,7 +310,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Button_21_0">Secure purchase</span>\
+        	            <span id="rtr-mi-1128219e-Button_21_0">Multireligionstödet</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -324,7 +325,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-1128219e-Button_22_0">Quality seal</span>\
+        	            <span id="rtr-mi-1128219e-Button_22_0">Quality</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -360,7 +361,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_17_0">Suspendisse et viverra ligula</span><span id="rtr-s-Text_17_1"> a</span><span id="rtr-s-Text_17_2">liquam rhoncus</span>\
+                  <span id="rtr-s-Text_17_0">Vapenindustrin (försvarsindustrin) </span><span id="rtr-s-Text_17_1"> a</span><span id="rtr-s-Text_17_2">liquam rhoncus</span>\
                 </div>\
               </div>\
             </div>\
@@ -375,7 +376,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_18_0">Nullam luctus, enim id imperdiet laoreet nunc</span>\
+                  <span id="rtr-s-Text_18_0">samlingsregering</span>\
                 </div>\
               </div>\
             </div>\
@@ -530,7 +531,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Text_57_0">Product description</span>\
+                                <span id="rtr-s-Text_57_0">FDU description</span>\
                               </div>\
                             </div>\
                           </div>\
@@ -545,7 +546,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Text_77_0">Product name</span>\
+                                <span id="rtr-s-Text_77_0">Frede</span>\
                               </div>\
                             </div>\
                           </div>\
@@ -588,7 +589,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Button_34_0">Add to cart</span>\
+                                <span id="rtr-s-Button_34_0">Demokrati</span>\
                               </div>\
                             </div>\
                           </div>\
@@ -759,7 +760,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Button_35_0">Add to cart</span>\
+                                <span id="rtr-s-Button_35_0">Hållbar utveckling</span>\
                               </div>\
                             </div>\
                           </div>\
@@ -781,7 +782,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Text_111_0">$ 25.90</span>\
+                                <span id="rtr-s-Text_111_0">misstroendevotum</span>\
                               </div>\
                             </div>\
                           </div>\
@@ -872,7 +873,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Text_112_0">Product description</span>\
+                                <span id="rtr-s-Text_112_0">SSD-regeringen</span>\
                               </div>\
                             </div>\
                           </div>\
@@ -887,7 +888,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Text_113_0">Product name</span>\
+                                <span id="rtr-s-Text_113_0">Fred</span>\
                               </div>\
                             </div>\
                           </div>\
@@ -930,7 +931,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                           <div class="paddingLayer">\
                             <div class="content">\
                               <div class="valign">\
-                                <span id="rtr-s-Button_36_0">Add to cart</span>\
+                                <span id="rtr-s-Button_36_0">Demokrati</span>\
                               </div>\
                             </div>\
                           </div>\
