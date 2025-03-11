@@ -49,7 +49,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Text_61_0">Customer Service</span>\
+        	            <span id="rtr-mi-a75bdac9-Text_61_0">Tre reformer som förändrar världen </span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -64,7 +64,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Button_4_0">Shipping policy</span>\
+        	            <span id="rtr-mi-a75bdac9-Button_4_0">Anti-arms industry movement </span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -109,7 +109,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Button_7_0">Shipping</span>\
+        	            <span id="rtr-mi-a75bdac9-Button_7_0">FDU</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -166,7 +166,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Text_65_0">Mauris augue nisl, cursus marusqui molestie turpis ut tempor lueni</span>\
+        	            <span id="rtr-mi-a75bdac9-Text_65_0">Miljömodellen för demokrati, demokrati från teori till praktik, vilar på  ett multireligionvalsystem</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -200,7 +200,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Button_9_0">Physical stores</span>\
+        	            <span id="rtr-mi-a75bdac9-Button_9_0">Ditt land och religionsfrihets  </span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -245,7 +245,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Button_12_0">Offers</span>\
+        	            <span id="rtr-mi-a75bdac9-Button_12_0">Freds</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -309,7 +309,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Button_16_0">Secure purchase</span>\
+        	            <span id="rtr-mi-a75bdac9-Button_16_0">FDU</span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -324,7 +324,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         	      <div class="paddingLayer">\
         	        <div class="content">\
         	          <div class="valign">\
-        	            <span id="rtr-mi-a75bdac9-Button_17_0">Quality seal</span>\
+        	            <span id="rtr-mi-a75bdac9-Button_17_0">Quality </span>\
         	          </div>\
         	        </div>\
         	      </div>\
@@ -405,7 +405,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Text_59_0">Mauris augue nisl, cursus molestie turpis ut, tempor imperdiet felis. Class aptent taciti socio ad litora torquent per conubia nostra.</span>\
+                    <span id="rtr-s-Text_59_0">Hur länge skall de nordiska ärkiskoparna vara tysta om det pågående israeliska folkmordet på palestinier ?.</span>\
                   </div>\
                 </div>\
               </div>\
@@ -464,7 +464,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_46_0">Mauris tempus lorem non leo consequat luctus. Sed vitae massa dapibus, fermentum</span>\
+                  <span id="rtr-s-Text_46_0">The top-level domain of poor countries and industrialized countries</span>\
                 </div>\
               </div>\
             </div>\
