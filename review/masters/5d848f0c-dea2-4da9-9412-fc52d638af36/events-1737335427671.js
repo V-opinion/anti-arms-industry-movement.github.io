@@ -15,7 +15,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -37,7 +37,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -59,7 +59,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -81,7 +81,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -103,7 +103,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -125,7 +125,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -147,7 +147,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -169,7 +169,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -191,7 +191,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -213,7 +213,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -235,7 +235,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -257,7 +257,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -279,7 +279,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://anti-arms-industry-movement.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
