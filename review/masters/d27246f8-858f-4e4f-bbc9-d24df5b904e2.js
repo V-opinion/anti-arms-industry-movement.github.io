@@ -31,7 +31,7 @@ var content='<div class="ui-page ui-component" deviceName="web" deviceType="desk
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-Text_61_0">Customer Service</span>\
+                  <span id="rtr-Text_61_0">Multireligionvalsystem</span>\
                 </div>\
               </div>\
             </div>\
