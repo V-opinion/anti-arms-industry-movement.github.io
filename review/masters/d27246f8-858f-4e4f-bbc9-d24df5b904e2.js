@@ -91,7 +91,7 @@ var content='<div class="ui-page ui-component" deviceName="web" deviceType="desk
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-Button_7_0">Shipping</span>\
+                  <span id="rtr-Button_7_0">Fred</span>\
                 </div>\
               </div>\
             </div>\
@@ -148,7 +148,7 @@ var content='<div class="ui-page ui-component" deviceName="web" deviceType="desk
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-Text_65_0">Mauris augue nisl, cursus marusqui molestie turpis ut tempor lueni</span>\
+                  <span id="rtr-Text_65_0">*****************************</span>\
                 </div>\
               </div>\
             </div>\
